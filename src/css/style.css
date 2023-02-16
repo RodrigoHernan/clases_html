@@ -1,10 +1,14 @@
+ul {
+    list-style: none;
+}
+
 h1 {
     color: rgba(33, 32, 131, 0.658);
 }
 
 #primer-oferta {
     color: rgb(53, 54, 54);
-   
+
 }
 
 .oferta-item {
@@ -26,5 +30,4 @@ body {
     justify-content: center
 }
 
-    
-  
+
