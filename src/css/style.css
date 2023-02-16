@@ -3,16 +3,28 @@ h1 {
 }
 
 #primer-oferta {
-   color: rgba(71, 197, 21, 0.658);
+    color: rgb(53, 54, 54);
+   
 }
 
 .oferta-item {
-    color: aquamarine;
-    background-color: #f7941f;
+    color: rgb(53, 54, 54);
+    background-color: #ffffff;
     margin: 10px;
     padding: 10px;
+    box-shadow: 3px 10px 47px -19px rgba(0,0,0,0.75);
+    border-radius: 10px;
 }
 
 body {
     margin-bottom: 10px;
 }
+
+#contenedor1{
+    display: flex; /* or inline-flex */
+    FLEX-WRAP: wrap;
+    justify-content: center
+}
+
+    
+  
