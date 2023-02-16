@@ -1,3 +1,18 @@
 h1 {
     color: rgba(33, 32, 131, 0.658);
 }
+
+#primer-oferta {
+   color: rgba(71, 197, 21, 0.658);
+}
+
+.oferta-item {
+    color: aquamarine;
+    background-color: rgba(238, 50, 50, 0.658);
+    margin: 10px;
+    padding: 10px;
+}
+
+body {
+    margin-bottom: 10px;
+}
