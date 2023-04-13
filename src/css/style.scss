@@ -13,3 +13,41 @@
         
     }
 }
+.promo_image img {
+    max-width: 100%;
+    
+}
+
+.col-lg-4 promo_col {
+
+position: relative;
+width: 100%;
+min-height: 1px;
+padding-right: 15px;
+padding-left: 15px;
+
+}
+
+.promo_title {
+    font-size: 14px;
+    color: #FFFFFF;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-top: -3px;
+}
+
+.promo_content_2 {
+    text-align: center;
+}
+
+
+.promo_image {
+  
+    position: relative;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    background: #FFFFFF;
+    color: #2f2f2f;
+}
